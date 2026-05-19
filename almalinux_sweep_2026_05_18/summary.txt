@@ -1,0 +1,7 @@
+image=almalinux:8.10-20260509
+python=Python 3.6.8
+compileall_status=0
+total=447
+pass=447
+fail=0
+pass_percent=100.00
